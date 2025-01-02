@@ -23,6 +23,7 @@ Console.UserChatRegex=^(?<username>.+?): (?<message>.+)$
 Console.UserJoinRegex=^User (?<username>.+?) \((?<userid>-?d+)\) connected from \[::ffff:(?<endpoint>.+?)\]$
 Console.UserLeaveRegex=^User (?<username>.+?) \((?<userid>-?d+)\) disconnected\. Reason: (.+?)$
 Meta.AppConfigId=39028b37-54d8-4dce-be5f-e128d41bc1c3
+Meta.MinAMPVersion=2.6.0.4
 Meta.Author=Fabian
 Meta.ConfigManifest=imperium-otconfig.json
 Meta.ConfigRoot=imperium-ot.kvp
